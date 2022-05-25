@@ -10,8 +10,10 @@ image: "images/author/profile.png"
 # image: [test](https://i.imgur.com/V4RclNb.png)
 
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
+  # email: "johndoe@example.com"
+  # phone: "+0123456789"
+  linkedin: edwardcwu
+  github: Code4Dopamine
 
 # some summary about what you do
 summary:
