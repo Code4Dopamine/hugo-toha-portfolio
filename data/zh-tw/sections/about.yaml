@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: 關於
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer @ 100Devs
+designation: 軟體工程師 @ 100Devs
 # your company information
 company:
   # name: Example Co.

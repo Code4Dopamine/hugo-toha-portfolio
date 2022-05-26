@@ -19,7 +19,12 @@ languages:
   # TODO
   zh-tw:
     languageName: 中文
-    weight: 1
+    weight: 2
+
+  # jp:
+  #   languageName: 中文
+  #   weight: 3
+
 
 # Control TOC depth
 markup:
@@ -57,3 +62,7 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
+  
+  flagOverwrites:
+  - languageCode: zh-tw
+    countryCode: tw

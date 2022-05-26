@@ -29,3 +29,6 @@ description: Portfolio and personal blog of Edward Wu.
 #   description: Portfolio and personal blog of John Doe.
 #   image: images/author/john.png
 #   url: https://hugo-toha.github.io
+
+# Starting Hugo
+# hugo server -t toha -w

@@ -26,22 +26,13 @@ buttons:
 
 # your projects
 projects: 
-- name: SolidWorks - Arios Gundam 1/144 HG
-  # hero: /images/google_cloud.png
-  logo: /images/sections/projects/kubernetes.png
-  role: CAD Designer
-  timeline: "2008"
-  url: "https://drive.google.com/drive/folders/1dzTIsofR7N725ZpPs37i80UeF3YN4G7L"
-  summary: Part of the Career Program offered at TCHS & in preparation for Solidwork Examination. Measured the Plastic Gundam Model via Calipers and built a 100% accurate model in Solidworks.
-  tags: ["Solidworks", "3D Modeling", "hobby"]
-
-- name: UROP Project - Robotic Herds
+- name: UROP - Robotic Herds
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
-  timeline: "2008"
+  timeline: "2015 - 2016 "
   url: "https://drive.google.com/drive/folders/1YPjAW1c5RgWxI2i-z3NRbsNChikJgMRi"
   summary: Undergraduate Research Project on simulating Herd Movement (Biods Algorithm by Craig Reynolds) on Robots. Part of the UCI Digital Art's Final Exhibition Project.
-  tags: ["academic", "opencv", "robotics", "hobby"]
+  tags: ["academic", "opencv", "robotics"]
 
 # - name: 
 #   logo: /images/sections/projects/kubernetes.png
