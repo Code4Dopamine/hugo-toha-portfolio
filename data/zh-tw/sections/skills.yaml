@@ -54,6 +54,21 @@ skills:
   summary: "Have experience building Small robots via Arduino, ATMega32 chip, NodeMCU, etc. Used OpenCV libraries and coded in C/C++. Taught several students as robotics instructor."
   logo: "/images/skills/arduino-1.svg"
 
+- name: Atlassian JIRA
+  summary: Proj. Mangement Software used at Magellan. Responsibility include linking Autobuild releases and tracking changes. Promoted to Admin status after 1 year, and help created and maintain dashboards, workflows, tasklists for my several projects in Engineering and IT depeartment.
+  logo: "images/skills/jira-1.svg"
+
+- name: Atlassian Confluence
+  summary: Wrote and Updated several documentation regarding product release and autobuild funcionalities & changes
+  logo: "images/skills/confluence-1.svg"
+
+- name: Perl
+  summary: Help maintain Autobuild server scripts (created previously by in-house team), such as branch config, versioning, etc.
+  logo: "images/skills/perl.svg"
+
+# - name:
+#   summary:
+#   logo: "images/skills/"
 
 # - name: Go Development
 #   logo: /images/sections/skills/go.png

@@ -38,7 +38,7 @@ projects:
 - name: UROP Project - Robotic Herds
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
-  timeline: "2008"
+  timeline: "2015"
   url: "https://drive.google.com/drive/folders/1YPjAW1c5RgWxI2i-z3NRbsNChikJgMRi"
   summary: Undergraduate Research Project on simulating Herd Movement (Biods Algorithm by Craig Reynolds) on Robots. Part of the UCI Digital Art's Final Exhibition Project.
   tags: ["academic", "opencv", "robotics", "hobby"]

@@ -14,27 +14,23 @@ skills:
 - name: HTML
   logo: "/images/skills/html-1.svg"
   summary: "Capable of writing and developing website in modern HTML5 Standard. Part of the Full-Stack Web Development."
-  # url: "#"
 
 - name: CSS
   logo: "/images/skills/css-3.svg"
   summary: "Part of the Full-Stack Web Development."
-  # url: "#"
 
 - name: Javascript
   summary: "Capable of writing in Object-Oriented Programming and using modern WebAPI. Part of the Full-Stack Web Development."
   logo: "/images/skills/logo-javascript.svg"
-  # url: "#"
 
 - name: React
   summary: "Part of the Full-Stack Web Development."
   logo: "/images/skills/react-2.svg"
-  # url: "#"
 
 - name: Python
   summary: "Using it as the main scripting language with Numpy for parsing and developing animated graphs / data overviews."
   logo: "/images/skills/python-5.svg"
-  # url: "#"
+  url: https://www.python.org/
 
 - name: SQL
   summary: "Capable of extracting big-data information and applying it in other application (Python, Java, Web, etc.)"
@@ -44,7 +40,7 @@ skills:
 - name: Java
   summary: "Object-oriented programming with NetBean IDE"
   logo: "/images/skills/java-4.svg"
-  # url: "#"
+  url: https://www.java.com/
 
 - name: Linux
   summary: "Used CentOS for autobuilding & delivering Android Apps during work."
@@ -54,6 +50,24 @@ skills:
   summary: "Have experience building Small robots via Arduino, ATMega32 chip, NodeMCU, etc. Used OpenCV libraries and coded in C/C++. Taught several students as robotics instructor."
   logo: "/images/skills/arduino-1.svg"
 
+- name: Atlassian JIRA
+  summary: Proj. Mangement Software used at Magellan. Responsibility include linking Autobuild releases and tracking changes. Promoted to Admin status after 1 year, and help created and maintain dashboards, workflows, tasklists for my several projects in Engineering and IT depeartment.
+  logo: "images/skills/jira-1.svg"
+  url: https://www.atlassian.com/software/jira
+
+- name: Atlassian Confluence
+  summary: Wrote and Updated several documentation regarding product release and autobuild funcionalities & changes
+  logo: "images/skills/confluence-1.svg"
+  url: https://www.atlassian.com/software/confluence
+
+- name: Perl
+  summary: Help maintain Autobuild server scripts (created previously by in-house team), such as branch config, versioning, etc.
+  logo: "images/skills/perl.svg"
+  url: https://www.perl.org/
+
+# - name:
+#   summary:
+#   logo: "images/skills/"
 
 # - name: Go Development
 #   logo: /images/sections/skills/go.png

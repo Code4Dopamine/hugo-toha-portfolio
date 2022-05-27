@@ -42,13 +42,13 @@ experiences:
 
 - company:
     name: MagellanGPS
-    url: "https://www.example.com"
+    url: "https://www.magellangps.com/"
     location: San Dimas, California, USA
     overview: MagellanGPS (MiTAC Digital Corp) provides innovative GPS technology for vehicle navigation, outdoor recreation, iphones, and GIS. My role as 
   positions:
   - designation: Software Engineer (Configuration Management)
-    start: Jun 2015
-    end: Jan 2016
+    start: Oct 2016
+    end: Aug 2018
     responsibilities:
     # - === UX Design [SmartDeviceLink(SDL) Project] ===
     - \[UXDesign\] Created Userflow, Wireframes and Prototype for Navigation App (SDL Platform).
