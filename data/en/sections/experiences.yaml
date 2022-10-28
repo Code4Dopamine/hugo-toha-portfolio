@@ -13,8 +13,8 @@ experiences:
 - company:
     name: 100Devs
     url: "#"
-    # location: Dhaka Branch
-    overview: 100Devs is an agency specilizing in customizing and developing websites for individual clients.
+    location: Remote (San Francisco, California)
+    # overview: Web Dev Agency
   positions:
   - designation: Full Stack Software Developer
     start: Jan 2022
@@ -36,15 +36,15 @@ experiences:
     start: January 2021
     end: March 2022
     responsibilities:
-    - Taught kids ages 7-18 Computer Programming [Scatch, Python, Java]
-    - Taught 3D Modeling (Autodesk Fusion 360), 3D Printing, and Robotic
-    - Prepare student for AP Computer Science Exam
+    - Taught studnets age 7-12 Scratch / Scratch Jr, Sphero Robotic, Minecraft Education, and MakeCode Arcade.
+    - Taught students 13+ Java and Python Fundamentals + AP Computer Science Prep.
+    - Taught students fundamentals of CAD Design (3D Modeling) via Autodesk Fusion 360 & 3D Printing using ABS / Resin.
 
 - company:
     name: MagellanGPS
     url: "https://www.example.com"
     location: San Dimas, California, USA
-    overview: MagellanGPS (MiTAC Digital Corp) provides innovative GPS technology for vehicle navigation, outdoor recreation, iphones, and GIS. My role as 
+    overview: Portable GPS navigation consumer electronics company (part of MiTAC Corporation)
   positions:
   - designation: Software Engineer (Configuration Management)
     start: Jun 2015
@@ -60,7 +60,7 @@ experiences:
     - Performed Branch configuration on SVN repositories.
     - Troubleshoot, Packaged & Delivered software to clients via physical copies & Apps Stores (Apple/Google).
 
-    # - === IT /Administrative ===
+    - === IT /Administrative ===
     - Maintained onsite server room operation with collaboration from oversea engineering team (HQ).
     - Administrator of Atlassian JIRA and Confluence (Workflows, Task Tracking, ...) (promoted after 1 year)
 
